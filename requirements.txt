@@ -1,0 +1,7 @@
+tkinter
+opencv-python
+face-recognition
+numpy
+mtcnn
+tensorflow
+Pillow
